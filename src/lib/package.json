@@ -8,7 +8,7 @@
   },
   "exports": {
     "./toastr": {
-      "default": "./toastr.css"
+      "default": "./toastr.scss"
     },
     "./toastr-old": {
       "default": "./toastr-old.css"

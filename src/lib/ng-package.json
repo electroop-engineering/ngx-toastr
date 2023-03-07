@@ -4,7 +4,7 @@
     "entryFile": "public_api.ts"
   },
   "assets": [
-    "./toastr.css",
+    "./toastr.scss",
     "./toastr-old.css",
     "./toastr-bs4-alert.scss",
     "./toastr-bs5-alert.scss"
